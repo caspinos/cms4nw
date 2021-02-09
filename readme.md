@@ -1,10 +1,10 @@
 # Temat: 
-​    System zarządzania treścią dla serwisu informacyjnego oparty na mikroserwisach
-​    Micro-services based content management system for news website
+System zarządzania treścią dla serwisu informacyjnego oparty na mikroserwisach
+Micro-services based content management system for news website
 
 ## Frontend:
-​	Aplikacja webowa oparna na architekturze SPA - Simple Web Application
-​    PWA - progressive web application (jeżeli uda się czasowo)
+Aplikacja webowa oparna na architekturze SPA - Simple Web Application
+PWA - progressive web application (jeżeli uda się czasowo)
 
 - Technologie:
   - TypeScript

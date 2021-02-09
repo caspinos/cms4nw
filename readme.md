@@ -1,6 +1,9 @@
 # Temat: 
 System zarządzania treścią dla serwisu informacyjnego oparty na mikroserwisach
+
 Micro-services based content management system for news website
+
+
 
 ## Frontend:
 Aplikacja webowa oparna na architekturze SPA - Simple Web Application
@@ -152,5 +155,8 @@ PWA - progressive web application (jeżeli uda się czasowo)
 # Różne
 
 https://github.com/nhn/tui.editor
+
 https://github.com/vsch/flexmark-java
+
 https://github.com/atlassian/commonmark-java
+
